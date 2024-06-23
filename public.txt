@@ -1,0 +1,20 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+						INSTRUCTIONS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*	This game is the digital version of the Hangman game.
+
+*	The player's guessing skills will be tested against the player’s general knowledge about countries, animals 
+	and objects. Also, the player’s vocabulary is improved by this game.
+
+*	First, the player tries to guess the word by guessing one letter at a time. If the player knows the word, he 
+	can enter the whole word at once. 
+  
+*	Whenever the user guesses a letter that is the answer all occurrences of that letter are revealed to the user.
+
+*	The game ends when the user has every letter in the word, before player reaches the allow number of attempts. 
+
+*	If a player guesses a wrong letter, hangman will be appeared and after the 5 wrong guesses hangman will be
+	 completed and end the game.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

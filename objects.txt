@@ -1,0 +1,10 @@
+refrigerator
+spatula
+scourer
+dishwasher
+telescope
+microphone
+book
+table
+paper
+bottle
